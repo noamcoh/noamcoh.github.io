@@ -6,7 +6,9 @@ A detailed explaination of section cuts can be found in the following [link](htt
 
 The desired goal is the following cut:
 
-![](https://themagnumgroup.net/Blog/wp-content/uploads/2020/04/cutting-plane.jpg) _The image is taken from the blog linked above_
+![](https://themagnumgroup.net/Blog/wp-content/uploads/2020/04/cutting-plane.jpg) 
+
+_The image is taken from the blog linked above_
 
 As it can be seen in the image, the mesh is cut where it intersects with the plane, leaving two different parts.
 The important part of section cutting is discarding one of those parts.
