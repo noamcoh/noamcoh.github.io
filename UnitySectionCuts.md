@@ -5,6 +5,7 @@ A crucial tool for designers is the ability to view a certain part of their prod
 A detailed explaination of section cuts can be found in the following [link](https://themagnumgroup.net/Blog/section-drawing/).
 
 The desired goal is the following cut:
+
 ![](https://themagnumgroup.net/Blog/wp-content/uploads/2020/04/cutting-plane.jpg) _The image is taken from the blog linked above_
 
 As it can be seen in the image, the mesh is cut where it intersects with the plane, leaving two different parts.
