@@ -22,7 +22,7 @@ author: Noam Cohen
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Section Cut In Unity: "/assets/projects/UnitySectionCuts.md"
+    - Section Cut In Unity: "UnitySectionCuts"
 
 ################
 # --- Logo --- #
