@@ -17,3 +17,4 @@ If you ever met an architect or an architecture student you will learn that sect
 
 After she had submitted her portfolio I have decided it is time for me to explore section cuts in Unity (It works in Unreal as well).
 
+You can read all about the solution in my [section cut project](/assets/projects/UnitySectionCuts.md)
