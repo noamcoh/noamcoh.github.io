@@ -23,6 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - Section Cut In Unity: "UnitySectionCuts"
+  Game Development:
     - Dicey Escape: "https://osteiner.itch.io/dicey-escape/"
     - Spectrum: "https://osteiner.itch.io/spectrum/"
 
