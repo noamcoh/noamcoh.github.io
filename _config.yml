@@ -22,10 +22,12 @@ author: Noam Cohen
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Section Cut In Unity: "UnitySectionCuts"
+    Mars rover communication: LoRa
+    
   Game Development:
-    - Dicey Escape: "https://osteiner.itch.io/dicey-escape/"
-    - Spectrum: "https://osteiner.itch.io/spectrum/"
+    - Dicey Escape (GMTK 2022): "https://osteiner.itch.io/dicey-escape/"
+    - Spectrum (GMTK 2021): "https://osteiner.itch.io/spectrum/"
+    - Section Cut In Unity: "UnitySectionCuts"
 
 ################
 # --- Logo --- #
