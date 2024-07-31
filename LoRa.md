@@ -4,6 +4,6 @@ The part that I invested most of my time into was commuincation, I wanted to che
 This led me to quite a side quest, which I summarised here in a report.
 
 <div class="text-center">
-  <object data="assets/projects/LoRa/LoRa.pdf" width="1000" height="1000" type='application/pdf'></object>
+  <object data="/assets/projects/LoRa/LoRa.pdf" width="1000" height="1000" type='application/pdf'></object>
 </div>
 
